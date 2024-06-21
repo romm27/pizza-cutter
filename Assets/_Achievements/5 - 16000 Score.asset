@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee37683afc99b6d4a89f6b7ea74d3693, type: 3}
+  m_Name: 5 - 16000 Score
+  m_EditorClassIdentifier: 
+  achieved: 0
+  saveKey: achievement_sixteen_thousand
+  achievementName: Way More than Eight Thousand!
+  description: Get 1600 total score or more.
+  availbleScenes: 
+  nameKey: 
+  descKey: 
+  gameManagerContainer: {fileID: 11400000, guid: 6bfe0ec9473346142a8a02c0624008a9, type: 2}
+  scopeType: 1
+  checkType: 1
+  unlockAt: 16000

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee963224d2786b447acf660ce83389af, type: 3}
+  m_Name: 1 - First Question
+  m_EditorClassIdentifier: 
+  achieved: 0
+  saveKey: achievement_first
+  achievementName: Math!
+  description: Complete your first question!
+  availbleScenes: 
+  nameKey: achievement_
+  gameManagerContainer: {fileID: 11400000, guid: 6bfe0ec9473346142a8a02c0624008a9, type: 2}
+  unlockAt: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21415df29cd373b4fa223d1db02c802d, type: 3}
+  m_Name: Achievement Manager
+  m_EditorClassIdentifier: 
+  achievementDisplayContainer: {fileID: 11400000, guid: 6e22a1fb9d2b52044b04292bdc7f6579, type: 2}
+  achievementContainer: {fileID: 11400000, guid: 37abdbef63874c24a90408c3100e9f65, type: 2}
+  gameManagerContainer: {fileID: 11400000, guid: 6bfe0ec9473346142a8a02c0624008a9, type: 2}
+  outOfScreenX: 660
+  InScreenX: 420
+  displayMoveSpeed: 4
+  persistentTime: 4

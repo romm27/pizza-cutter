@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46f204a0e58b9014eb51d9ecb5ad1470, type: 3}
+  m_Name: 8_Add_Medium
+  m_EditorClassIdentifier: 
+  weight: 1
+  introductionPhase: 3
+  limitedPhaseTriger: 
+  extraTimeForQuestion: 10
+  questionType: 1
+  piChance: 0.45
+  mixedPiChance: 0.45
+  structures:
+  - $1 + $2
+  - $1 + $2
+  - $1 + $2
