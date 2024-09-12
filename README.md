@@ -1,6 +1,6 @@
-#Pizza Cutter
-## Mobile game first developed for the Global Gamejam of 2020, and later refurbished into the final project of my Unity course.
+# Pizza Cutter
+### Mobile game first developed for the Global Gamejam of 2020, and later refurbished into the final project of my Unity course.
 
-#About
+# About
 
-#How to clone
+# How to clone
