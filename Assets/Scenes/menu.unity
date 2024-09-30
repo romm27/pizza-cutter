@@ -682,6 +682,10 @@ PrefabInstance:
       propertyPath: achievements.Array.data[9]
       value: 
       objectReference: {fileID: 11400000, guid: 9bae793d19ebbb847820402e0c71881f, type: 2}
+    - target: {fileID: 6605062134748510648, guid: e632e39238c12e947843e9de1882bccc, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2f68ff90628b0b64a813fcca9d432bdd, type: 3}
     - target: {fileID: 6605062134748510649, guid: e632e39238c12e947843e9de1882bccc, type: 3}
       propertyPath: reference
       value: 
